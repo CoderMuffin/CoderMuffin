@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CoderMuffin
-- 👀 I’m interested in Muffins and Coding :D
+- 👀 I’m interested in muffins, coding and the C programming language :D
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on nothing right now :(
-- 📫 How to reach me ---
+- 💞️ I’m looking to collaborate on discord bots and other projects
+- 📫 How to reach me: codermuffin@gmail.com
 
 <!---
 CoderMuffin/CoderMuffin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
